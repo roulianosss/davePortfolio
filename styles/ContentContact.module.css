@@ -1,0 +1,13 @@
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px #60f2d2 groove;
+}
+
+.container span {
+    
+    color: #60f2d2;
+}

@@ -1,9 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: #0a192f;
+  scroll-behavior: smooth;
+  font-family: 'VT323', monospace;
+  font-size: 30px
 }
 
 a {
